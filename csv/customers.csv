@@ -1,0 +1,1201 @@
+customer_id,customer_name,region,segment,irrelevant_col_1,irrelevant_col_2,irrelevant_col_3
+20,Heather Pace,EAST,Retail,151,426,829
+694,,east,Corporate,725,589,562
+176,Michael Martinez,SOUTH,Small Business,890,91,733
+459,,WEST,Corporate,274,247,374
+527,Philip Booth,WEST,Corporate,987,974,905
+677,,north,Retail,649,438,545
+488,Teresa Abbott,WEST,Corporate,745,190,222
+514,Kyle Gonzalez,WEST,Small Business,484,50,716
+144,,WEST,Corporate,417,294,377
+129,Kyle Gonzalez,WEST,Small Business,25,247,57
+202,Mary Austin,EAST,Small Business,633,102,10
+207,Philip Booth,WEST,Corporate,240,241,247
+173,Teresa Abbott,WEST,Corporate,921,232,176
+285,Steven Price,EAST,Retail,774,97,63
+472,John Key,EAST,Retail,651,418,797
+547,Laura Matthews,EAST,Small Business,913,278,368
+318,Teresa Abbott,WEST,Corporate,862,981,114
+72,Philip Booth,WEST,Corporate,156,580,116
+340,Cynthia Lee,NORTH,Retail,707,707,984
+534,Keith Hernandez,WEST,Small Business,749,178,363
+156,Michael Erickson,WEST,Retail,473,245,226
+86,Michael Erickson,WEST,Retail,877,624,752
+33,Teresa Abbott,WEST,Corporate,666,13,496
+371,Kristin Allen,NORTH,Retail,770,541,62
+602,Daniel Edwards,WEST,Small Business,168,832,4
+153,Amanda Vang,WEST,Corporate,780,154,678
+352,Philip Booth,WEST,Corporate,456,238,510
+391,Ashley Mcmillan,EAST,Retail,785,859,693
+184,Keith Hernandez,WEST,Small Business,736,906,579
+636,Ashley Mcmillan,east,Retail,773,15,186
+494,,WEST,Corporate,898,231,381
+634,,WEST,Corporate,95,986,376
+628,Teresa Abbott,WEST,Corporate,856,143,894
+392,Daniel Edwards,WEST,Small Business,232,210,205
+638,Steven Johnson,NORTH,Small Business,300,569,206
+376,Ryan Kennedy,WEST,Retail,632,274,876
+454,Donald Moore,WEST,Corporate,475,126,994
+120,Sherry Jones,SOUTH,Small Business,678,834,178
+75,Steven Price,EAST,Retail,483,381,352
+509,Andrea Clay,WEST,Corporate,376,42,489
+139,Donald Moore,WEST,Corporate,354,286,222
+683,Justin Walker,north,Retail,967,257,189
+109,,WEST,Corporate,508,231,815
+164,Kyle Gonzalez,WEST,Small Business,551,315,72
+474,Andrea Clay,WEST,Corporate,623,405,848
+80,Emily Warren,NORTH,Retail,511,647,406
+591,Michael Martinez,SOUTH,Small Business,95,323,402
+480,Cynthia Lee,NORTH,Retail,784,479,742
+395,Emily Warren,NORTH,Retail,483,763,973
+286,Ashley Mcmillan,EAST,Retail,340,852,56
+350,Steven Price,EAST,Retail,381,437,859
+608,Amanda Vang,WEST,Corporate,689,544,603
+89,Andrea Clay,WEST,Corporate,800,960,380
+213,Teresa Abbott,WEST,Corporate,908,717,739
+661,Michael Martinez,south,Small Business,208,870,928
+13,Amanda Vang,WEST,Corporate,682,327,214
+52,John Key,EAST,Retail,525,293,840
+229,Andrea Clay,WEST,Corporate,24,453,790
+3,Teresa Abbott,WEST,Corporate,320,600,804
+34,Donald Moore,WEST,Corporate,525,61,811
+165,Cynthia Lee,NORTH,Retail,431,475,241
+505,Sherry Jones,SOUTH,Small Business,920,434,954
+405,Heather Pace,EAST,Retail,189,962,170
+227,John Key,EAST,Retail,652,207,288
+682,John Key,EAST,Retail,307,894,807
+378,Richard Reed,WEST,Retail,839,197,266
+491,Michael Martinez,SOUTH,Small Business,253,706,429
+245,Steven Price,EAST,Retail,519,839,635
+49,Hector Barnes,NORTH,Small Business,802,578,322
+500,Emily Warren,NORTH,Retail,284,7,88
+48,Amanda Vang,WEST,Corporate,509,889,821
+142,Philip Booth,WEST,Corporate,575,924,631
+625,Mrs. Jessica Santiago,EAST,Retail,67,953,104
+515,Cynthia Lee,NORTH,Retail,763,338,330
+354,,WEST,Corporate,150,363,863
+289,Keith Hernandez,WEST,Small Business,969,539,230
+116,William Wiley,SOUTH,Small Business,715,329,403
+238,Richard Reed,WEST,Retail,379,48,188
+121,Michael Erickson,WEST,Retail,12,312,673
+314,Donald Moore,WEST,Corporate,544,616,920
+356,Ashley Mcmillan,EAST,Retail,453,762,517
+475,Heather Pace,EAST,Retail,418,557,479
+414,Vicki Wilson,EAST,Corporate,954,632,952
+553,Richard Reed,WEST,Retail,725,86,344
+439,Andrea Clay,WEST,Corporate,77,68,727
+620,Cynthia Lee,NORTH,Retail,348,25,591
+209,Donald Moore,WEST,Corporate,271,251,149
+333,Justin Walker,NORTH,Retail,202,821,596
+452,Philip Booth,WEST,Corporate,649,233,812
+38,Teresa Abbott,WEST,Corporate,191,448,929
+565,Steven Price,EAST,Retail,797,724,332
+270,Cynthia Lee,NORTH,Retail,913,437,733
+640,Emily Warren,north,Retail,685,953,890
+647,,east,Retail,249,780,528
+554,Vicki Wilson,EAST,Corporate,279,924,806
+45,Emily Warren,NORTH,Retail,876,160,535
+186,William Wiley,SOUTH,Small Business,195,389,836
+477,Laura Matthews,EAST,Small Business,954,898,260
+579,Andrea Clay,WEST,Corporate,749,267,570
+531,Ashley Mcmillan,EAST,Retail,288,155,420
+612,John Key,EAST,Retail,40,820,227
+678,Amanda Vang,west,Corporate,586,706,938
+568,Steven Johnson,NORTH,Small Business,601,163,338
+311,Michael Martinez,SOUTH,Small Business,663,902,572
+626,Michael Martinez,SOUTH,Small Business,666,118,455
+528,Teresa Abbott,WEST,Corporate,893,840,445
+421,Michael Martinez,SOUTH,Small Business,707,585,529
+411,Ryan Kennedy,WEST,Retail,69,827,407
+8,Steven Johnson,NORTH,Small Business,367,530,23
+190,Sherry Jones,SOUTH,Small Business,138,385,707
+381,Michael Martinez,SOUTH,Small Business,784,115,771
+262,John Key,EAST,Retail,596,995,726
+404,Andrea Clay,WEST,Corporate,766,332,272
+479,Kyle Gonzalez,WEST,Small Business,918,694,606
+655,Cynthia Lee,NORTH,Retail,704,337,318
+618,Lisa Tran,SOUTH,Small Business,119,723,470
+338,Lisa Tran,SOUTH,Small Business,105,786,729
+225,Sherry Jones,SOUTH,Small Business,374,347,11
+415,Mrs. Jessica Santiago,EAST,Retail,648,878,106
+197,Laura Matthews,EAST,Small Business,390,779,455
+552,Mary Austin,EAST,Small Business,7,606,885
+305,Cynthia Lee,NORTH,Retail,180,915,964
+603,Steven Johnson,NORTH,Small Business,869,165,63
+260,Sherry Jones,SOUTH,Small Business,333,393,648
+279,Donald Moore,WEST,Corporate,510,419,710
+574,Hector Barnes,NORTH,Small Business,747,926,479
+398,Amanda Vang,WEST,Corporate,649,312,172
+519,Vicki Wilson,EAST,Corporate,577,65,73
+473,Justin Walker,NORTH,Retail,766,970,474
+90,Heather Pace,EAST,Retail,946,43,111
+12,Ashley Martin,NORTH,Retail,875,399,83
+43,Steven Johnson,NORTH,Small Business,923,474,91
+695,,east,Retail,847,742,374
+240,Mrs. Jessica Santiago,EAST,Retail,393,802,453
+66,Michael Martinez,SOUTH,Small Business,241,63,700
+605,Emily Warren,NORTH,Retail,794,871,307
+417,Philip Booth,WEST,Corporate,48,550,199
+566,Ashley Mcmillan,EAST,Retail,923,196,633
+171,Michael Martinez,SOUTH,Small Business,593,129,822
+5,Steven Price,EAST,Retail,139,247,766
+369,Andrea Clay,WEST,Corporate,290,760,174
+330,Sherry Jones,SOUTH,Small Business,412,448,349
+422,Philip Booth,WEST,Corporate,562,84,900
+688,Lisa Tran,south,Small Business,2,730,341
+555,Mrs. Jessica Santiago,EAST,Retail,550,549,390
+177,Philip Booth,WEST,Corporate,571,590,236
+645,,SOUTH,Small Business,445,61,404
+159,Andrea Clay,WEST,Corporate,309,304,850
+216,Ashley Mcmillan,EAST,Retail,811,834,642
+639,,west,Small Business,515,767,515
+584,Kyle Gonzalez,WEST,Small Business,63,565,334
+669,,WEST,Corporate,718,609,96
+211,Michael Martinez,SOUTH,Small Business,949,675,988
+461,Ashley Mcmillan,EAST,Retail,451,834,993
+101,Michael Martinez,SOUTH,Small Business,361,932,199
+537,Ashley Martin,NORTH,Retail,344,369,331
+14,Hector Barnes,NORTH,Small Business,324,835,289
+221,William Wiley,SOUTH,Small Business,697,195,754
+282,Philip Booth,WEST,Corporate,504,262,395
+684,Andrea Clay,west,Corporate,865,903,111
+63,Richard Reed,WEST,Retail,795,851,750
+601,Ashley Mcmillan,EAST,Retail,81,631,849
+399,Hector Barnes,NORTH,Small Business,168,914,963
+88,Justin Walker,NORTH,Retail,491,128,347
+549,Kyle Gonzalez,WEST,Small Business,133,873,369
+457,Philip Booth,WEST,Corporate,132,264,881
+226,Michael Erickson,WEST,Retail,443,113,793
+465,Emily Warren,NORTH,Retail,905,839,460
+501,William Wiley,SOUTH,Small Business,46,519,23
+58,Lisa Tran,SOUTH,Small Business,553,591,791
+541,Michael Erickson,WEST,Retail,295,621,927
+253,Steven Johnson,NORTH,Small Business,809,14,628
+25,Cynthia Lee,NORTH,Retail,576,791,405
+468,Amanda Vang,WEST,Corporate,996,562,111
+466,William Wiley,SOUTH,Small Business,643,881,516
+64,Vicki Wilson,EAST,Corporate,525,925,849
+188,Amanda Vang,WEST,Corporate,751,396,970
+617,Laura Matthews,EAST,Small Business,911,952,710
+506,Michael Erickson,WEST,Retail,146,697,982
+390,Steven Price,EAST,Retail,594,875,589
+402,John Key,EAST,Retail,45,758,21
+664,Donald Moore,west,Corporate,833,299,536
+614,Andrea Clay,WEST,Corporate,817,619,245
+384,Donald Moore,WEST,Corporate,605,705,909
+196,Kristin Allen,NORTH,Retail,815,310,338
+375,Cynthia Lee,NORTH,Retail,772,755,840
+27,Mary Austin,EAST,Small Business,372,930,885
+508,Justin Walker,NORTH,Retail,841,247,291
+231,Kristin Allen,NORTH,Retail,778,619,215
+495,Steven Price,EAST,Retail,800,281,65
+28,Richard Reed,WEST,Retail,354,60,440
+348,Teresa Abbott,WEST,Corporate,790,898,493
+700,Steven Price,east,Retail,560,549,336
+599,,WEST,Corporate,82,723,75
+82,Ashley Martin,NORTH,Retail,835,673,644
+124,Andrea Clay,WEST,Corporate,497,458,791
+490,Steven Price,EAST,Retail,2,42,353
+504,Hector Barnes,NORTH,Small Business,122,121,939
+476,Kristin Allen,NORTH,Retail,386,299,715
+691,,west,Retail,192,720,139
+280,Steven Price,EAST,Retail,52,806,589
+585,Cynthia Lee,NORTH,Retail,848,10,482
+309,Vicki Wilson,EAST,Corporate,77,364,238
+631,,south,Small Business,524,514,454
+429,Keith Hernandez,WEST,Small Business,137,268,458
+281,Michael Martinez,SOUTH,Small Business,59,822,849
+364,Hector Barnes,NORTH,Small Business,924,724,531
+593,Teresa Abbott,WEST,Corporate,955,757,672
+482,Mary Austin,EAST,Small Business,814,176,937
+69,Donald Moore,WEST,Corporate,729,684,564
+332,John Key,EAST,Retail,382,620,170
+32,Philip Booth,WEST,Corporate,22,916,516
+616,Kristin Allen,NORTH,Retail,578,57,557
+315,Steven Price,EAST,Retail,302,362,270
+357,Daniel Edwards,WEST,Small Business,131,76,169
+154,Hector Barnes,NORTH,Small Business,304,91,384
+432,Ashley Martin,NORTH,Retail,427,577,530
+134,Vicki Wilson,EAST,Corporate,76,725,401
+536,William Wiley,SOUTH,Small Business,675,122,865
+81,William Wiley,SOUTH,Small Business,548,682,45
+397,Ashley Martin,NORTH,Retail,12,387,309
+257,Ashley Martin,NORTH,Retail,890,126,385
+557,Philip Booth,WEST,Corporate,278,335,11
+503,Amanda Vang,WEST,Corporate,729,229,270
+446,Ryan Kennedy,WEST,Retail,198,661,669
+449,Vicki Wilson,EAST,Corporate,810,618,433
+386,Michael Martinez,SOUTH,Small Business,924,52,547
+316,Michael Martinez,SOUTH,Small Business,637,774,75
+44,Keith Hernandez,WEST,Small Business,187,678,285
+430,Emily Warren,NORTH,Retail,816,130,195
+327,Ashley Martin,NORTH,Retail,126,185,623
+79,Keith Hernandez,WEST,Small Business,118,951,350
+254,Keith Hernandez,WEST,Small Business,850,612,16
+223,Amanda Vang,WEST,Corporate,117,466,119
+308,Richard Reed,WEST,Retail,394,571,306
+201,Ryan Kennedy,WEST,Retail,243,268,428
+178,Teresa Abbott,WEST,Corporate,505,850,579
+70,Steven Price,EAST,Retail,141,139,122
+264,Andrea Clay,WEST,Corporate,414,411,562
+445,Cynthia Lee,NORTH,Retail,680,450,897
+560,Steven Price,EAST,Retail,224,608,427
+208,Teresa Abbott,WEST,Corporate,74,738,968
+242,Philip Booth,WEST,Corporate,394,892,665
+487,Philip Booth,WEST,Corporate,507,912,351
+293,Amanda Vang,WEST,Corporate,270,979,315
+224,Hector Barnes,NORTH,Small Business,472,112,686
+42,Daniel Edwards,WEST,Small Business,497,367,368
+258,Amanda Vang,WEST,Corporate,636,807,635
+261,Michael Erickson,WEST,Retail,658,749,402
+622,Mary Austin,EAST,Small Business,716,925,200
+589,Vicki Wilson,EAST,Corporate,374,940,633
+321,Ashley Mcmillan,EAST,Retail,596,327,929
+140,Steven Price,EAST,Retail,85,101,850
+151,William Wiley,SOUTH,Small Business,375,449,733
+367,John Key,EAST,Retail,462,244,363
+413,Richard Reed,WEST,Retail,303,706,97
+36,Michael Martinez,SOUTH,Small Business,542,258,932
+60,Cynthia Lee,NORTH,Retail,785,360,463
+551,Ryan Kennedy,WEST,Retail,765,121,503
+471,Michael Erickson,WEST,Retail,684,742,720
+619,Kyle Gonzalez,WEST,Small Business,565,427,694
+288,Steven Johnson,NORTH,Small Business,283,254,343
+394,Keith Hernandez,WEST,Small Business,748,417,578
+157,John Key,EAST,Retail,783,789,969
+6,Ashley Mcmillan,EAST,Retail,685,688,518
+341,Ryan Kennedy,WEST,Retail,672,900,352
+535,Emily Warren,NORTH,Retail,122,179,543
+92,Laura Matthews,EAST,Small Business,930,521,653
+588,Richard Reed,WEST,Retail,294,91,287
+218,Steven Johnson,NORTH,Small Business,797,713,87
+273,Richard Reed,WEST,Retail,279,367,505
+299,Andrea Clay,WEST,Corporate,472,109,482
+205,Mrs. Jessica Santiago,EAST,Retail,44,842,689
+388,Teresa Abbott,WEST,Corporate,982,465,780
+198,Lisa Tran,SOUTH,Small Business,923,783,800
+130,Cynthia Lee,NORTH,Retail,2,488,865
+668,Teresa Abbott,WEST,Corporate,39,544,90
+167,Mary Austin,EAST,Small Business,640,672,904
+105,Steven Price,EAST,Retail,292,867,931
+542,John Key,EAST,Retail,414,155,711
+291,William Wiley,SOUTH,Small Business,82,122,11
+187,Ashley Martin,NORTH,Retail,581,23,904
+30,Mrs. Jessica Santiago,EAST,Retail,177,203,508
+102,Philip Booth,WEST,Corporate,389,563,73
+147,Daniel Edwards,WEST,Small Business,285,992,881
+484,Vicki Wilson,EAST,Corporate,473,903,714
+234,Kyle Gonzalez,WEST,Small Business,495,774,925
+93,Lisa Tran,SOUTH,Small Business,726,105,309
+545,Heather Pace,EAST,Retail,649,822,54
+128,Lisa Tran,SOUTH,Small Business,671,429,330
+194,Andrea Clay,WEST,Corporate,864,782,787
+263,Justin Walker,NORTH,Retail,950,826,87
+23,Lisa Tran,SOUTH,Small Business,58,210,878
+329,Hector Barnes,NORTH,Small Business,871,440,31
+690,,north,Retail,112,440,839
+290,Emily Warren,NORTH,Retail,567,742,253
+355,Steven Price,EAST,Retail,146,443,473
+162,Laura Matthews,EAST,Small Business,395,209,824
+111,Ashley Mcmillan,EAST,Retail,635,479,217
+347,Philip Booth,WEST,Corporate,641,705,969
+67,Philip Booth,WEST,Corporate,197,710,619
+83,Amanda Vang,WEST,Corporate,802,629,260
+353,Teresa Abbott,WEST,Corporate,556,287,859
+502,Ashley Martin,NORTH,Retail,8,661,821
+548,Lisa Tran,SOUTH,Small Business,551,640,355
+643,Amanda Vang,west,Corporate,88,11,796
+520,Mrs. Jessica Santiago,EAST,Retail,862,209,372
+95,Cynthia Lee,NORTH,Retail,779,307,839
+576,Michael Erickson,WEST,Retail,475,827,503
+525,Steven Price,EAST,Retail,922,865,231
+401,Michael Erickson,WEST,Retail,530,633,157
+91,Kristin Allen,NORTH,Retail,353,463,681
+29,Vicki Wilson,EAST,Corporate,116,360,417
+181,Ashley Mcmillan,EAST,Retail,135,285,709
+496,Ashley Mcmillan,EAST,Retail,887,937,515
+251,Ashley Mcmillan,EAST,Retail,910,305,226
+409,Kyle Gonzalez,WEST,Small Business,680,551,298
+246,Michael Martinez,SOUTH,Small Business,796,106,566
+428,Steven Johnson,NORTH,Small Business,822,240,668
+56,Kristin Allen,NORTH,Retail,681,542,390
+148,Steven Johnson,NORTH,Small Business,349,306,881
+666,,south,Small Business,255,376,146
+693,Richard Reed,WEST,Retail,320,781,341
+575,Sherry Jones,SOUTH,Small Business,464,850,364
+241,Michael Martinez,SOUTH,Small Business,553,40,44
+272,Mary Austin,EAST,Small Business,240,369,505
+166,Ryan Kennedy,WEST,Retail,504,469,288
+296,Michael Erickson,WEST,Retail,585,151,67
+77,Daniel Edwards,WEST,Small Business,167,432,681
+478,Lisa Tran,SOUTH,Small Business,396,895,213
+590,Mrs. Jessica Santiago,EAST,Retail,280,495,120
+323,Steven Johnson,NORTH,Small Business,777,235,608
+114,Keith Hernandez,WEST,Small Business,434,967,874
+512,Laura Matthews,EAST,Small Business,88,320,736
+685,,east,Retail,558,761,832
+624,Vicki Wilson,EAST,Corporate,114,808,104
+453,Teresa Abbott,WEST,Corporate,595,914,434
+344,Vicki Wilson,EAST,Corporate,616,663,237
+249,,WEST,Corporate,736,938,471
+544,Andrea Clay,WEST,Corporate,25,980,44
+189,Hector Barnes,NORTH,Small Business,561,798,128
+642,Ashley Martin,north,Retail,413,852,282
+37,Philip Booth,WEST,Corporate,742,49,296
+623,Richard Reed,WEST,Retail,380,350,654
+266,Kristin Allen,NORTH,Retail,848,340,903
+419,Donald Moore,WEST,Corporate,787,809,29
+68,Teresa Abbott,WEST,Corporate,593,128,436
+320,Steven Price,EAST,Retail,603,498,710
+55,Heather Pace,EAST,Retail,81,492,46
+562,Philip Booth,WEST,Corporate,999,730,524
+581,Kristin Allen,NORTH,Retail,271,438,604
+163,Lisa Tran,SOUTH,Small Business,900,905,124
+9,Keith Hernandez,WEST,Small Business,505,414,256
+540,Sherry Jones,SOUTH,Small Business,610,328,382
+295,Sherry Jones,SOUTH,Small Business,920,932,519
+256,William Wiley,SOUTH,Small Business,673,728,485
+125,Heather Pace,EAST,Retail,846,214,953
+532,Daniel Edwards,WEST,Small Business,18,218,464
+149,Keith Hernandez,WEST,Small Business,891,289,839
+427,Daniel Edwards,WEST,Small Business,12,690,607
+113,Steven Johnson,NORTH,Small Business,577,225,95
+680,,south,Small Business,602,306,642
+641,,south,Small Business,45,916,769
+368,Justin Walker,NORTH,Retail,526,864,649
+406,Kristin Allen,NORTH,Retail,774,826,482
+493,Teresa Abbott,WEST,Corporate,699,597,544
+523,Teresa Abbott,WEST,Corporate,561,599,22
+212,Philip Booth,WEST,Corporate,945,851,721
+462,Daniel Edwards,WEST,Small Business,228,652,661
+408,Lisa Tran,SOUTH,Small Business,369,343,976
+511,Kristin Allen,NORTH,Retail,869,469,127
+517,Mary Austin,EAST,Small Business,710,22,293
+192,John Key,EAST,Retail,340,139,975
+607,Ashley Martin,NORTH,Retail,171,646,18
+141,Michael Martinez,SOUTH,Small Business,403,815,999
+146,Ashley Mcmillan,EAST,Retail,174,735,96
+18,Justin Walker,NORTH,Retail,28,522,845
+26,Ryan Kennedy,WEST,Retail,384,76,215
+360,Emily Warren,NORTH,Retail,543,512,632
+380,Mrs. Jessica Santiago,EAST,Retail,552,776,883
+108,Teresa Abbott,WEST,Corporate,995,843,408
+518,Richard Reed,WEST,Retail,14,362,630
+349,Donald Moore,WEST,Corporate,441,950,407
+521,Michael Martinez,SOUTH,Small Business,245,647,355
+420,Steven Price,EAST,Retail,443,558,432
+543,Justin Walker,NORTH,Retail,364,495,645
+292,Ashley Martin,NORTH,Retail,61,320,333
+137,Philip Booth,WEST,Corporate,577,490,964
+374,Kyle Gonzalez,WEST,Small Business,857,951,190
+122,John Key,EAST,Retail,662,487,324
+4,,WEST,Corporate,796,891,450
+400,Sherry Jones,SOUTH,Small Business,422,556,318
+100,Mrs. Jessica Santiago,EAST,Retail,225,814,163
+78,Steven Johnson,NORTH,Small Business,696,279,913
+294,Hector Barnes,NORTH,Small Business,465,597,315
+98,Richard Reed,WEST,Retail,314,932,351
+418,Teresa Abbott,WEST,Corporate,166,752,597
+118,Amanda Vang,WEST,Corporate,389,636,37
+436,Michael Erickson,WEST,Retail,96,433,215
+301,Kristin Allen,NORTH,Retail,241,788,669
+572,Ashley Martin,NORTH,Retail,450,681,180
+365,Sherry Jones,SOUTH,Small Business,291,826,202
+431,William Wiley,SOUTH,Small Business,475,698,182
+533,Steven Johnson,NORTH,Small Business,303,118,651
+606,William Wiley,SOUTH,Small Business,837,363,132
+175,Steven Price,EAST,Retail,898,466,728
+74,,WEST,Corporate,42,476,489
+334,Andrea Clay,WEST,Corporate,790,894,300
+377,Mary Austin,EAST,Small Business,90,615,214
+96,Ryan Kennedy,WEST,Retail,150,737,360
+219,Keith Hernandez,WEST,Small Business,181,971,368
+199,Kyle Gonzalez,WEST,Small Business,649,256,51
+637,,west,Small Business,976,766,442
+652,,east,Small Business,450,931,775
+94,Kyle Gonzalez,WEST,Small Business,198,437,422
+596,Michael Martinez,SOUTH,Small Business,103,25,45
+372,Laura Matthews,EAST,Small Business,989,209,304
+366,Michael Erickson,WEST,Retail,54,393,646
+331,Michael Erickson,WEST,Retail,515,577,147
+481,Ryan Kennedy,WEST,Retail,276,963,632
+217,Daniel Edwards,WEST,Small Business,677,244,269
+426,Ashley Mcmillan,EAST,Retail,49,934,823
+567,Daniel Edwards,WEST,Small Business,12,496,996
+486,Michael Martinez,SOUTH,Small Business,247,100,737
+629,Donald Moore,WEST,Corporate,112,353,604
+250,Steven Price,EAST,Retail,59,992,536
+424,,WEST,Corporate,597,451,643
+215,Steven Price,EAST,Retail,100,404,466
+172,Philip Booth,WEST,Corporate,408,710,75
+278,Teresa Abbott,WEST,Corporate,335,420,955
+31,Michael Martinez,SOUTH,Small Business,26,141,602
+363,Amanda Vang,WEST,Corporate,20,173,365
+152,Ashley Martin,NORTH,Retail,759,429,41
+244,Donald Moore,WEST,Corporate,372,63,358
+191,Michael Erickson,WEST,Retail,341,500,805
+51,Michael Erickson,WEST,Retail,848,344,810
+160,Heather Pace,EAST,Retail,191,167,618
+469,Hector Barnes,NORTH,Small Business,17,927,153
+447,Mary Austin,EAST,Small Business,726,546,461
+239,Vicki Wilson,EAST,Corporate,108,149,417
+133,Richard Reed,WEST,Retail,750,213,974
+303,Lisa Tran,SOUTH,Small Business,906,514,882
+106,Michael Martinez,SOUTH,Small Business,667,395,71
+1,Michael Martinez,SOUTH,Small Business,144,502,215
+563,Teresa Abbott,WEST,Corporate,81,829,885
+322,Daniel Edwards,WEST,Small Business,975,590,606
+138,Teresa Abbott,WEST,Corporate,739,348,78
+61,Ryan Kennedy,WEST,Retail,512,499,423
+168,Richard Reed,WEST,Retail,314,942,897
+19,Andrea Clay,WEST,Corporate,982,597,741
+155,Sherry Jones,SOUTH,Small Business,533,476,487
+135,Mrs. Jessica Santiago,EAST,Retail,819,931,66
+497,Daniel Edwards,WEST,Small Business,527,7,431
+483,Richard Reed,WEST,Retail,230,544,558
+653,,south,Small Business,434,324,350
+665,,east,Retail,43,541,592
+613,Justin Walker,NORTH,Retail,572,59,122
+615,Heather Pace,EAST,Retail,793,634,744
+382,Philip Booth,WEST,Corporate,252,977,385
+699,,WEST,Corporate,61,649,256
+687,,EAST,Small Business,700,298,444
+389,,WEST,Corporate,592,556,282
+658,,WEST,Retail,400,371,826
+53,Justin Walker,NORTH,Retail,821,348,623
+47,Ashley Martin,NORTH,Retail,728,102,904
+635,Steven Price,east,Retail,985,171,224
+252,Daniel Edwards,WEST,Small Business,517,275,61
+633,,west,Corporate,377,247,553
+442,Laura Matthews,EAST,Small Business,988,483,555
+277,Philip Booth,WEST,Corporate,823,596,954
+632,Philip Booth,WEST,Corporate,355,665,809
+594,Donald Moore,WEST,Corporate,797,758,335
+206,Michael Martinez,SOUTH,Small Business,453,350,203
+259,Hector Barnes,NORTH,Small Business,691,403,154
+516,Ryan Kennedy,WEST,Retail,16,408,405
+195,Heather Pace,EAST,Retail,948,581,61
+370,Heather Pace,EAST,Retail,95,14,509
+570,Emily Warren,NORTH,Retail,781,698,174
+513,Lisa Tran,SOUTH,Small Business,464,315,347
+304,Kyle Gonzalez,WEST,Small Business,586,205,331
+346,Michael Martinez,SOUTH,Small Business,571,69,62
+416,Michael Martinez,SOUTH,Small Business,148,747,374
+180,Steven Price,EAST,Retail,50,108,535
+373,Lisa Tran,SOUTH,Small Business,795,646,140
+16,Michael Erickson,WEST,Retail,807,506,84
+569,Keith Hernandez,WEST,Small Business,56,679,175
+499,Keith Hernandez,WEST,Small Business,890,674,615
+654,,west,Small Business,351,377,860
+65,Mrs. Jessica Santiago,EAST,Retail,171,881,47
+539,Hector Barnes,NORTH,Small Business,346,797,898
+62,Mary Austin,EAST,Small Business,756,965,608
+379,Vicki Wilson,EAST,Corporate,110,825,43
+345,Mrs. Jessica Santiago,EAST,Retail,527,104,983
+464,Keith Hernandez,WEST,Small Business,464,319,193
+2,Philip Booth,WEST,Corporate,759,502,184
+667,Philip Booth,west,Corporate,97,880,934
+21,Kristin Allen,NORTH,Retail,581,883,767
+456,Michael Martinez,SOUTH,Small Business,519,461,485
+538,Amanda Vang,WEST,Corporate,60,661,906
+362,Ashley Martin,NORTH,Retail,676,283,14
+444,Kyle Gonzalez,WEST,Small Business,997,848,221
+339,Kyle Gonzalez,WEST,Small Business,641,856,711
+663,,WEST,Corporate,60,791,420
+99,Vicki Wilson,EAST,Corporate,704,367,620
+150,Emily Warren,NORTH,Retail,402,282,578
+200,Cynthia Lee,NORTH,Retail,445,991,960
+498,Steven Johnson,NORTH,Small Business,53,529,765
+267,Laura Matthews,EAST,Small Business,615,47,163
+577,John Key,EAST,Retail,145,387,362
+611,Michael Erickson,WEST,Retail,217,528,563
+247,Philip Booth,WEST,Corporate,133,542,455
+276,Michael Martinez,SOUTH,Small Business,982,960,304
+326,William Wiley,SOUTH,Small Business,221,310,110
+158,Justin Walker,NORTH,Retail,455,150,278
+524,Donald Moore,WEST,Corporate,468,391,390
+659,,east,Corporate,285,910,966
+214,,WEST,Corporate,324,492,358
+230,Heather Pace,EAST,Retail,110,858,975
+228,Justin Walker,NORTH,Retail,187,967,292
+84,Hector Barnes,NORTH,Small Business,760,27,665
+657,Mary Austin,EAST,Small Business,503,806,948
+10,Emily Warren,NORTH,Retail,799,362,914
+507,John Key,EAST,Retail,432,357,810
+237,Mary Austin,EAST,Small Business,601,544,817
+319,,WEST,Corporate,859,904,517
+343,Richard Reed,WEST,Retail,628,713,933
+587,Mary Austin,EAST,Small Business,588,829,486
+526,Michael Martinez,SOUTH,Small Business,485,382,400
+203,Richard Reed,WEST,Retail,537,32,178
+696,Michael Martinez,SOUTH,Small Business,516,723,589
+97,Mary Austin,EAST,Small Business,762,440,530
+210,Steven Price,EAST,Retail,864,742,975
+204,Vicki Wilson,EAST,Corporate,602,503,362
+621,Ryan Kennedy,WEST,Retail,181,333,692
+361,William Wiley,SOUTH,Small Business,479,141,9
+383,Teresa Abbott,WEST,Corporate,897,764,793
+672,,west,Small Business,565,332,264
+284,,WEST,Corporate,653,245,840
+317,Philip Booth,WEST,Corporate,911,788,952
+248,Teresa Abbott,WEST,Corporate,338,826,701
+119,Hector Barnes,NORTH,Small Business,70,689,692
+485,Mrs. Jessica Santiago,EAST,Retail,194,464,302
+143,Teresa Abbott,WEST,Corporate,5,704,263
+104,Donald Moore,WEST,Corporate,524,915,447
+185,Emily Warren,NORTH,Retail,381,645,550
+564,,WEST,Corporate,847,821,797
+275,Mrs. Jessica Santiago,EAST,Retail,461,97,950
+107,Philip Booth,WEST,Corporate,294,810,856
+103,Teresa Abbott,WEST,Corporate,340,400,139
+271,Ryan Kennedy,WEST,Retail,627,100,657
+302,Laura Matthews,EAST,Small Business,154,362,801
+558,Teresa Abbott,WEST,Corporate,851,163,27
+522,Philip Booth,WEST,Corporate,331,551,504
+689,,west,Small Business,481,335,671
+268,Lisa Tran,SOUTH,Small Business,372,307,482
+582,Laura Matthews,EAST,Small Business,113,758,619
+336,Kristin Allen,NORTH,Retail,693,556,72
+136,Michael Martinez,SOUTH,Small Business,652,431,314
+11,William Wiley,SOUTH,Small Business,452,317,9
+235,Cynthia Lee,NORTH,Retail,805,641,282
+561,Michael Martinez,SOUTH,Small Business,150,235,943
+437,John Key,EAST,Retail,626,82,362
+161,Kristin Allen,NORTH,Retail,121,915,753
+112,Daniel Edwards,WEST,Small Business,505,977,84
+451,Michael Martinez,SOUTH,Small Business,321,205,797
+403,Justin Walker,NORTH,Retail,163,435,570
+463,Steven Johnson,NORTH,Small Business,262,674,960
+670,,east,Retail,417,81,790
+610,Sherry Jones,SOUTH,Small Business,64,24,878
+467,Ashley Martin,NORTH,Retail,524,197,898
+73,Teresa Abbott,WEST,Corporate,808,823,285
+298,Justin Walker,NORTH,Retail,520,51,249
+222,Ashley Martin,NORTH,Retail,489,115,506
+396,William Wiley,SOUTH,Small Business,883,910,565
+255,Emily Warren,NORTH,Retail,432,558,814
+307,Mary Austin,EAST,Small Business,808,98,327
+312,Philip Booth,WEST,Corporate,572,486,503
+597,Philip Booth,WEST,Corporate,459,189,139
+393,Steven Johnson,NORTH,Small Business,8,604,167
+646,,west,Retail,594,88,654
+627,Philip Booth,WEST,Corporate,687,194,844
+57,Laura Matthews,EAST,Small Business,650,183,912
+578,Justin Walker,NORTH,Retail,81,997,511
+123,Justin Walker,NORTH,Retail,82,991,551
+604,Keith Hernandez,WEST,Small Business,6,476,368
+283,Teresa Abbott,WEST,Corporate,582,168,16
+269,Kyle Gonzalez,WEST,Small Business,791,953,410
+455,Steven Price,EAST,Retail,573,887,468
+676,,south,Small Business,88,932,650
+351,Michael Martinez,SOUTH,Small Business,134,92,551
+41,Ashley Mcmillan,EAST,Retail,18,89,290
+297,John Key,EAST,Retail,806,860,928
+425,Steven Price,EAST,Retail,951,859,115
+423,Teresa Abbott,WEST,Corporate,813,319,608
+328,Amanda Vang,WEST,Corporate,314,627,620
+660,Mrs. Jessica Santiago,east,Retail,896,987,137
+337,Laura Matthews,EAST,Small Business,981,685,425
+87,John Key,EAST,Retail,346,682,296
+313,Teresa Abbott,WEST,Corporate,363,766,737
+46,William Wiley,SOUTH,Small Business,414,525,846
+470,Sherry Jones,SOUTH,Small Business,317,32,108
+662,Philip Booth,WEST,Corporate,660,994,988
+169,Vicki Wilson,EAST,Corporate,144,336,919
+220,Emily Warren,NORTH,Retail,781,26,966
+170,Mrs. Jessica Santiago,EAST,Retail,829,156,217
+35,Steven Price,EAST,Retail,750,725,604
+440,Heather Pace,EAST,Retail,960,224,169
+54,Andrea Clay,WEST,Corporate,543,946,34
+698,Teresa Abbott,west,Corporate,820,819,448
+673,,north,Small Business,406,484,175
+675,Emily Warren,north,Retail,151,27,696
+510,Heather Pace,EAST,Retail,80,270,123
+450,Mrs. Jessica Santiago,EAST,Retail,911,617,961
+145,Steven Price,EAST,Retail,968,161,510
+600,Steven Price,EAST,Retail,853,848,323
+573,Amanda Vang,WEST,Corporate,668,678,852
+530,Steven Price,EAST,Retail,356,567,970
+434,Hector Barnes,NORTH,Small Business,625,317,235
+595,Steven Price,EAST,Retail,70,84,890
+550,Cynthia Lee,NORTH,Retail,701,59,169
+571,William Wiley,SOUTH,Small Business,87,701,241
+324,Keith Hernandez,WEST,Small Business,426,513,477
+15,Sherry Jones,SOUTH,Small Business,784,33,188
+460,Steven Price,EAST,Retail,895,589,536
+335,Heather Pace,EAST,Retail,886,273,420
+598,Teresa Abbott,WEST,Corporate,465,204,878
+110,Steven Price,EAST,Retail,421,893,311
+325,Emily Warren,NORTH,Retail,95,286,799
+193,Justin Walker,NORTH,Retail,642,344,816
+306,Ryan Kennedy,WEST,Retail,42,809,747
+40,Steven Price,EAST,Retail,283,715,55
+556,Michael Martinez,SOUTH,Small Business,275,650,639
+39,,WEST,Corporate,211,484,132
+580,Heather Pace,EAST,Retail,373,124,40
+649,Andrea Clay,west,Corporate,399,870,822
+126,Kristin Allen,NORTH,Retail,445,347,951
+265,Heather Pace,EAST,Retail,790,875,814
+76,Ashley Mcmillan,EAST,Retail,675,916,672
+182,Daniel Edwards,WEST,Small Business,687,403,868
+183,Steven Johnson,NORTH,Small Business,733,765,42
+132,Mary Austin,EAST,Small Business,945,2,119
+529,,WEST,Corporate,594,580,747
+359,Keith Hernandez,WEST,Small Business,136,595,872
+115,Emily Warren,NORTH,Retail,491,492,450
+59,Kyle Gonzalez,WEST,Small Business,408,549,306
+651,,north,Retail,648,78,99
+586,Ryan Kennedy,WEST,Retail,555,68,676
+583,Lisa Tran,SOUTH,Small Business,324,254,85
+644,Hector Barnes,north,Small Business,874,106,340
+71,Michael Martinez,SOUTH,Small Business,466,719,294
+233,Lisa Tran,SOUTH,Small Business,347,503,622
+656,,west,Retail,692,497,474
+433,Amanda Vang,WEST,Corporate,560,65,37
+174,Donald Moore,WEST,Corporate,631,274,312
+236,Ryan Kennedy,WEST,Retail,324,895,881
+232,Laura Matthews,EAST,Small Business,80,613,79
+438,Justin Walker,NORTH,Retail,988,650,890
+650,Heather Pace,east,Retail,44,948,112
+410,Cynthia Lee,NORTH,Retail,94,318,685
+458,Teresa Abbott,WEST,Corporate,291,420,782
+592,Philip Booth,WEST,Corporate,599,497,55
+342,Mary Austin,EAST,Small Business,58,242,768
+412,Mary Austin,EAST,Small Business,637,843,231
+674,,west,Small Business,256,449,199
+85,Sherry Jones,SOUTH,Small Business,642,234,716
+358,Steven Johnson,NORTH,Small Business,414,54,57
+435,Sherry Jones,SOUTH,Small Business,667,35,448
+648,,north,Retail,888,943,59
+546,Kristin Allen,NORTH,Retail,858,127,291
+692,Mary Austin,EAST,Small Business,544,288,468
+22,Laura Matthews,EAST,Small Business,882,369,387
+448,Richard Reed,WEST,Retail,718,759,664
+243,Teresa Abbott,WEST,Corporate,348,862,275
+127,Laura Matthews,EAST,Small Business,811,808,940
+310,Mrs. Jessica Santiago,EAST,Retail,261,895,950
+686,Kristin Allen,NORTH,Retail,736,931,387
+679,Hector Barnes,north,Small Business,849,581,627
+697,,west,Corporate,784,445,507
+287,Daniel Edwards,WEST,Small Business,181,775,421
+300,Heather Pace,EAST,Retail,34,5,294
+117,Ashley Martin,NORTH,Retail,935,245,90
+489,Donald Moore,WEST,Corporate,920,705,594
+131,Ryan Kennedy,WEST,Retail,308,682,512
+630,Steven Price,EAST,Retail,244,738,922
+179,,WEST,Corporate,222,494,952
+24,Kyle Gonzalez,WEST,Small Business,599,72,829
+492,Philip Booth,WEST,Corporate,18,408,401
+387,Philip Booth,WEST,Corporate,669,180,466
+443,Lisa Tran,SOUTH,Small Business,773,631,249
+609,Hector Barnes,NORTH,Small Business,211,259,58
+17,John Key,EAST,Retail,347,564,736
+7,Daniel Edwards,WEST,Small Business,356,541,205
+441,Kristin Allen,NORTH,Retail,40,287,283
+671,,EAST,Retail,527,183,397
+385,Steven Price,EAST,Retail,124,211,520
+274,Vicki Wilson,EAST,Corporate,169,437,58
+681,,west,Retail,733,626,554
+559,Donald Moore,WEST,Corporate,902,336,355
+50,Sherry Jones,SOUTH,Small Business,734,773,339
+407,Laura Matthews,EAST,Small Business,253,19,719
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A
