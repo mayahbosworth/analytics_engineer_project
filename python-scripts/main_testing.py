@@ -1,12 +1,8 @@
-from db_connection_function import connect_to_db
+from create_raw_products_table import create_raw_products_table
 
 def main():
-    connection = connect_to_db()
-    if connection:
-        print("Performing database tasks...")
-        # Example: Run some SQL queries here
-        connection.close()
-        print("Connection closed successfully.")
+    # populate each raw table dynamically
+    create_raw_products_table()
 
 if __name__ == '__main__':
     main()
