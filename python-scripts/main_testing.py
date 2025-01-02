@@ -1,5 +1,12 @@
-from find_path_function import get_csv_path
+from db_connection_function import connect_to_db
+
+def main():
+    connection = connect_to_db()
+    if connection:
+        print("Performing database tasks...")
+        # Example: Run some SQL queries here
+        connection.close()
+        print("🔌 Connection closed successfully.")
 
 if __name__ == '__main__':
-    example_path = get_csv_path('orders.csv')
-    print("Path to CSV file:", example_path)
+    main()
