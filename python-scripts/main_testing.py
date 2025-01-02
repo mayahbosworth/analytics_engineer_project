@@ -1,8 +1,5 @@
-from create_raw_products_table import create_raw_products_table
-
-def main():
-    # populate each raw table dynamically
-    create_raw_products_table()
+from create_dim_product_table import create_dim_product_table
 
 if __name__ == '__main__':
-    main()
+    print("🚀 Script is running directly.", flush=True)
+    create_dim_product_table()
