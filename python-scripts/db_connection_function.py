@@ -2,9 +2,12 @@ import os
 import psycopg2
 from dotenv import load_dotenv
 
+# load environment variables
+load_dotenv()
+
 def connect_to_db():
     try:
-        # environment variables
+        # fetch environment variables
         host = os.getenv('DB_HOST')
         dbname = os.getenv('DB_NAME')
         user = os.getenv('DB_USER')
@@ -19,11 +22,11 @@ def connect_to_db():
             password=password,
             port=port
         )
-        print("✅ Database connection successful!")
-        # database connection object
+        print("Database connection successful!")
+        # db connection object
         return conn
     
     except Exception as e:
-        print("❌ Failed to connect to the database.")
+        print("Failed to connect to the database.")
         print("Error:", e)
         return None
