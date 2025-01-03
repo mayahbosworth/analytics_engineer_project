@@ -1,45 +1,37 @@
-from find_path_function import get_csv_path
-from db_connection_function import connect_to_db
+from find_path_function import get_file_path
+from db_connection_function import create_engine_connection
+from detect_encoding_function import detect_encoding
 import pandas as pd
 
 
-def load_csv_to_db(table_name, file_path, unique_column=None, encoding='utf-8'):
+def load_csv_to_db(table_name, file_name, unique_column=None):
     try:
-        engine = connect_to_db()
+        engine = create_engine_connection()
+        csv_path = get_file_path('csv', file_name) 
+        print(f"loading data from {file_name} into {table_name}...", flush=True)
         
-        csv_path = get_csv_path(file_path)
-        
-        try:
-            df = pd.read_csv(csv_path, encoding=encoding)
-        except UnicodeDecodeError:
-            print(f"encoding error while reading {file_path}... trying 'utf-16le' instead")
-            df = pd.read_csv(csv_path, encoding='utf-16le')
-        
-        print(f"data from {file_path} loaded successfully into a temporary dataframe")
+        encoding = detect_encoding(csv_path)
+        df = pd.read_csv(csv_path, encoding=encoding)
         
         if unique_column:
             existing_ids = pd.read_sql_query(f"SELECT {unique_column} FROM {table_name}", engine)[unique_column].unique()
-            original_length = len(df)
             df = df[~df[unique_column].isin(existing_ids)]
-            new_length = len(df)
-            
-            print(f"rows before deduplication: {original_length}")
-            print(f"rows after deduplication: {new_length}")
         
         if df.empty:
-            print(f"no new data to insert into table '{table_name}'... skipping database insertion")
+            print(f"no new data to insert into '{table_name}'... skipping", flush=True)
             return
         
-        # insert data into the table
         df.to_sql(table_name, engine, if_exists='append', index=False)
-        print(f"data successfully inserted into table '{table_name}'.")
+        print(f"data loaded into '{table_name}' successfully", flush=True)
     
+    except FileNotFoundError as e:
+        print(f"CSV file not found: {file_name}", flush=True)
+        print("error:", e, flush=True)
     except Exception as e:
-        print("failed to load data from CSV to the database")
-        print("error:", e)
+        print(f"failed to load data into '{table_name}'", flush=True)
+        print("error:", e, flush=True)
     
     finally:
         if engine:
             engine.dispose()
-            print("SQLAlchemy engine disposed")
-
+            print("SQLAlchemy engine disposed", flush=True)
