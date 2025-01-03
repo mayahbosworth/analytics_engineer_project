@@ -32,6 +32,16 @@ def run_etl():
         print("fact table created successfully\n", flush=True)
         
         print("ETL pipeline completed successfully", flush=True)
+
+        # step 5: create sales performance table
+        print("step 5: creating sales performance table...", flush=True)
+        run_sql_script('create_sales_performance_table.sql')
+        print("sales performance table created successfully\n", flush=True)
+
+        # setp 6: populate sales performance table
+        print("step 6: populating sales performance table...", flush=True)
+        run_sql_script('populate_sales_performance_table.sql')
+        print("sales performance table populated successfully\n", flush=True)
     
     except Exception as e:
         print("\nETL pipeline failed", flush=True)
