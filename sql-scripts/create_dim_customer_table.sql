@@ -1,3 +1,5 @@
+
+
 CREATE TABLE IF NOT EXISTS dim_customer (
     customer_id INT PRIMARY KEY,
     customer_name VARCHAR(255),

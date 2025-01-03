@@ -1,3 +1,5 @@
+
+
 CREATE TABLE IF NOT EXISTS dim_product (
     product_id INT PRIMARY KEY,
     category VARCHAR(100)
