@@ -4,15 +4,15 @@ from sqlalchemy import text
 
 def create_dim_product_table():
     try:
-        print("Starting 'create_dim_product_table' function.", flush=True)
+        print("starting 'create_dim_product_table' function", flush=True)
         
         engine = connect_to_db()
-        print("Database connection established.", flush=True)
+        print("database connection established", flush=True)
         
         with engine.connect() as connection:
-            print("Starting to create 'dim_product' table.", flush=True)
+            print("starting to create 'dim_product' table", flush=True)
             
-            # Create the dim_product table
+            # create the dim_product table
             create_table_query = text(r"""
                 CREATE TABLE IF NOT EXISTS dim_product (
                     product_id INT PRIMARY KEY,
@@ -22,7 +22,7 @@ def create_dim_product_table():
             connection.execute(create_table_query)
             print("Table 'dim_product' created successfully.", flush=True)
             
-            # Populate the dim_product table with duplicate prevention
+            # populate the dim_product table with duplicate prevention
             print("Starting to populate 'dim_product' table.", flush=True)
             
             populate_table_query = text(r"""
@@ -38,15 +38,15 @@ def create_dim_product_table():
                     category = EXCLUDED.category
             """)
             connection.execute(populate_table_query)
-            print("Data successfully inserted/updated in 'dim_product' table without duplicates.", flush=True)
+            print("data successfully inserted/updated in 'dim_product' table without duplicates", flush=True)
     
     except Exception as e:
-        print("Failed to create or populate 'dim_product' table.", flush=True)
-        print("Error:", e, flush=True)
+        print("failed to create or populate 'dim_product' table", flush=True)
+        print("error:", e, flush=True)
     
     finally:
         if engine:
             engine.dispose()
-            print("🔌 SQLAlchemy engine disposed.", flush=True)
+            print("🔌 SQLAlchemy engine disposed", flush=True)
 
 

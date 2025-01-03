@@ -19,5 +19,5 @@ def create_raw_orders_table():
         )
     
     except Exception as e:
-        print("Failed to populate 'raw_orders' table.")
-        print("Error:", e)
+        print("failed to populate 'raw_orders' table.")
+        print("error:", e)

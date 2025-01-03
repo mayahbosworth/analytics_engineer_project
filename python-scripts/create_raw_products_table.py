@@ -19,5 +19,5 @@ def create_raw_products_table():
         )
     
     except Exception as e:
-        print("Failed to populate 'raw_products' table.")
-        print("Error:", e)
+        print("failed to populate 'raw_products' table")
+        print("error:", e)

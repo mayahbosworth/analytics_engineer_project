@@ -19,5 +19,5 @@ def create_raw_customers_table():
         )
     
     except Exception as e:
-        print("Failed to populate 'raw_customers' table.")
-        print("Error:", e)
+        print("failed to populate 'raw_customers' table")
+        print("error:", e)

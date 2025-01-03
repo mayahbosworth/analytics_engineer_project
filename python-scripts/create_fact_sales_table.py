@@ -3,17 +3,15 @@ from sqlalchemy import text
 
 
 def create_fact_sales_table():
-    """
-    Create and populate the 'fact_sales' table from 'raw_orders', avoiding duplicate order_id entries.
-    """
+    
     try:
         engine = connect_to_db()
-        print("Database connection established.", flush=True)
+        print("database connection established", flush=True)
         
         with engine.connect() as connection:
-            print("Starting to create 'fact_sales' table.", flush=True)
+            print("starting to create 'fact_sales' table", flush=True)
             
-            # Create the fact_sales table
+            # create the fact_sales table
             create_table_query = text(r"""
                 CREATE TABLE IF NOT EXISTS fact_sales (
                     order_id INT PRIMARY KEY,
@@ -26,10 +24,10 @@ def create_fact_sales_table():
                 );
             """)
             connection.execute(create_table_query)
-            print("Table 'fact_sales' created successfully.", flush=True)
+            print("table 'fact_sales' created successfully", flush=True)
             
-            # Populate the fact_sales table with duplicate prevention
-            print("Starting to populate 'fact_sales' table.", flush=True)
+            # populate the fact_sales table with duplicate prevention
+            print("starting to populate 'fact_sales' table", flush=True)
             
             populate_table_query = text(r"""
                 WITH cleaned_orders AS (
@@ -72,13 +70,13 @@ def create_fact_sales_table():
                     total_revenue = EXCLUDED.total_revenue;
             """)
             connection.execute(populate_table_query)
-            print("Data successfully inserted/updated in 'fact_sales' table without duplicates.", flush=True)
+            print("data successfully inserted/updated in 'fact_sales' table without duplicates", flush=True)
     
     except Exception as e:
-        print("Failed to create or populate 'fact_sales' table.", flush=True)
-        print("Error:", e, flush=True)
+        print("failed to create or populate 'fact_sales' table", flush=True)
+        print("error:", e, flush=True)
     
     finally:
         if engine:
             engine.dispose()
-            print("SQLAlchemy engine disposed.", flush=True)
+            print("SQLAlchemy engine disposed", flush=True)
