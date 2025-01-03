@@ -38,10 +38,10 @@ def create_dim_product_table():
                     category = EXCLUDED.category
             """)
             connection.execute(populate_table_query)
-            print("✅ Data successfully inserted/updated in 'dim_product' table without duplicates.", flush=True)
+            print("Data successfully inserted/updated in 'dim_product' table without duplicates.", flush=True)
     
     except Exception as e:
-        print("❌ Failed to create or populate 'dim_product' table.", flush=True)
+        print("Failed to create or populate 'dim_product' table.", flush=True)
         print("Error:", e, flush=True)
     
     finally:
